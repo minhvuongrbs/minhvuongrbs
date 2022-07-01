@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 👯 I'd love to build a product from scratch
+- 🌱 Interested in software development, new technology stacks such as Flutter, Nestjs, ...
+- 📫 How to reach me: (LinkedIn)[https://www.linkedin.com/in/vincenttran148]
+
 <!--
 **minhvuongrbs/minhvuongrbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
